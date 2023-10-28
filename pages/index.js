@@ -25,7 +25,7 @@ export default function Home() {
               </a>
             </li>
             <li>
-              <a href="https://github.com/pakokrew" target="_blank" rel="noreferrer">
+              <a href="https://github.com/pacoccino" target="_blank" rel="noreferrer">
                 <FontAwesomeIcon icon={faGithub} size="1x" />
               </a>
             </li>
